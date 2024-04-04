@@ -1,2 +1,21 @@
-# Raspberry-Pi-project
-The project is made in RaspberryPi microcomputer and is using Python Language with specific libraries
+
+# Raspberry Pi project
+Daniil Shumer 153931, Ivan Kaliadzich 153936
+
+Project was maden in the Poznan University of Technology for subject "Embedded Systems", it was maden in Python langugage.
+
+Also you can watch a small video, how checkers are working
+
+--------------------------
+
+The project consists of Raspberry Pi minicomputer, joysticks, buttons and LED tape.
+
+## The case for checkers:
+![Case_board_off](https://github.com/mr-SCWN/RaspberryPi_Checkers/assets/101336193/dd194f3b-0fb7-4a7f-bea7-887e4d5fbcb2)
+
+![Case_board_on](https://github.com/mr-SCWN/RaspberryPi_Checkers/assets/101336193/aa17169f-a570-4f96-adfb-8163fdbaa958)
+
+-----------------------------
+## The game board for checkers:
+
+![Game Board](https://github.com/mr-SCWN/RaspberryPi_Checkers/assets/101336193/f8d654b8-95a7-4288-bfd8-1c5cea27c40f)
