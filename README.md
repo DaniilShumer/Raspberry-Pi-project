@@ -11,11 +11,11 @@ Also you can watch a small video, how checkers are working
 The project consists of Raspberry Pi minicomputer, joysticks, buttons and LED tape.
 
 ## The case for checkers:
-![Case_board_off](https://github.com/DaniilShumer/RaspberryPi_Checkers/assets/101336193/dd194f3b-0fb7-4a7f-bea7-887e4d5fbcb2)
+![Case_board_off](https://github.com/DaniilShumer/Raspberry-Pi-project/blob/main/Case_board_off.jpg?raw=true)
 
-![Case_board_on](https://github.com/DaniilShumer/RaspberryPi_Checkers/assets/101336193/aa17169f-a570-4f96-adfb-8163fdbaa958)
+![Case_board_on](https://github.com/DaniilShumer/Raspberry-Pi-project/blob/main/Case_board_on.jpg?raw=true)
 
 -----------------------------
 ## The game board for checkers:
 
-![Game Board](https://github.com/DaniilShumer/RaspberryPi_Checkers/assets/101336193/f8d654b8-95a7-4288-bfd8-1c5cea27c40f)
+![Game Board](https://github.com/DaniilShumer/Raspberry-Pi-project/blob/main/Game%20Board.jpg?raw=true)
